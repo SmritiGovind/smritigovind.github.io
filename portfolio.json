@@ -1,0 +1,186 @@
+{
+  "name": "Smriti Govind",
+  "label": "Research Scholar, CET",
+  "image_path": "/content/drive/MyDrive/portfolio_generator/portfolio_media/DP.jpg",
+  "contact": {
+    "email": "smelayadath@gmail.com",
+    "phone": "",
+    "location": "Thiruvanathapuram, Kerala, India"
+  },
+  "summary": "Researcher with good experiance in Python programming, Deep Learning and Computer Vision. Also Lecturer in Elctronics and Communication",
+  "base_url": "",
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "www.linkedin.com/in/smriti-govind-60871ab5",
+      "svg_path": "/content/drive/MyDrive/portfolio_generator/img/linkedin.svg"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?hl=en&user=YebCQiQAAAAJ",
+      "svg_path": ""
+    },
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/0000-0002-6397-5628",
+      "svg_path": ""
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/SmritiGovind",
+      "svg_path": "/content/drive/MyDrive/portfolio_generator/img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "College Of Engineering Trivandrum, Sreekaryam, Thiruvananthapuram, Kerala",
+      "position": "Position One",
+      "url": "http://ece.cet.ac.in/research/",
+      "start_date": "11/11/2021",
+      "end_date": "Present",
+      "summary": "Research Scholar",
+      "Papers Published": [
+        "Lightweight Stereo Image Super-Resolution Using Parallax Attention: https://ieeexplore.ieee.org/abstract/document/10617097",
+        "Wavelet- Sub Pixel Based Single Image Super Resolution: https://ieeexplore.ieee.org/abstract/document/10245100"
+      ]
+    },
+    {
+      "company": "College Of Engineering Trivandrum, Sreekaryam, Thiruvananthapuram, Kerala",
+      "position": "Position Two",
+      "url": "http://ece.cet.ac.in",
+      "start_date": "August 2018",
+      "end_date": "November 2020",
+      "summary": "Adhoc Faculty, Department of ECE",
+      "highlights": ""
+    },
+    {
+      "company": "Lourdes Matha College of Science and Technology, Thiruvananthapuram, Kerala",
+      "position": "Position Three",
+      "url": "https://lmcst.ac.in/",
+      "start_date": "January 2017",
+      "end_date": "December 2020",
+      "summary": "Adhoc Faculty, Department of ECE",
+      "highlights": ""
+    }
+  ],
+  "projects": [
+    {
+      "title": "Lightweight Stereo Image Super-Resolution Using Parallax Attention",
+      "summary": "Proposes a novel and simple SSR approach that incorporates depth-wise separable convolutions and a PAM, and depth-wise separable convolutions to extract features from both left and right. Thus achieves a light weight design while still delivering comparable results in stereo image enhancement",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10617097",
+      "highlights": "",
+      "images": [
+        {
+          "img_path": "/content/drive/MyDrive/portfolio_generator/portfolio_media/model.png",
+          "caption": "LPASSR Model"
+        },
+        {
+          "img_path": "/content/drive/MyDrive/portfolio_generator/portfolio_media/Middleburry_test.png",
+          "caption": "Qualitative test result"
+        },
+        {
+          "img_path": "/content/drive/MyDrive/portfolio_generator/portfolio_media/test results.png",
+          "caption": "Quantitative test results"
+        }
+      ]
+    },
+    {
+      "title": "Wavelet- Sub Pixel Based Single Image Super Resolution",
+      "summary": "The algorithm developed for Blind Image Super-Resolution, which significantly increases Super-Resolution efficiency without sacrificing performance while enhancing generalized ability to real-world damaged pictures.",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10245100",
+      "highlights": "",
+      "images": [
+        {
+          "img_path": "/content/drive/MyDrive/portfolio_generator/portfolio_media/msp_model.png",
+          "caption": "WSRAN model"
+        },
+        {
+          "img_path": "/content/drive/MyDrive/portfolio_generator/portfolio_media/msp_testresult.png",
+          "caption": "WSRAN test result"
+        }
+      ]
+    },
+    {
+      "title": "Data hiding using QR code and Steganography",
+      "summary": "The algorithm developed will first convert cipher text into QR code which is a 2D image. This QR code is then embedded in the carrier image.",
+      "url": "https://docs.google.com/presentation/d/1weD2UHsM_AOoeCRYVpJvth_nVbBhTN41/edit?usp=drive_link&ouid=110390609465367197960&rtpof=true&sd=true",
+      "highlights": "",
+      "images": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "College Of Engineering Trivandrum",
+      "location": "Sreekaryam, Thiruvananthapuram, Kerala",
+      "url": "",
+      "degrees": [
+        "Ph.D., Electronics"
+      ],
+      "honors": ["First Class"],
+      "gpa": "8.4",
+      "gpa_major": "",
+      "graduation_date": " Present"
+    },
+    {
+      "institution": "Cochin University of Science and Technology",
+      "location": "Kochi, Kerala",
+      "url": "",
+      "degrees": [
+        "Master of Technology, Electronics"
+      ],
+      "honors": ["First Class"],
+      "gpa": "8.4",
+      "gpa_major": "",
+      "graduation_date": "April 2016"
+    },
+    {
+      "institution": "CCochin University of Science and Technology",
+      "location": "IKochi, Kerala",
+      "url": "",
+      "degrees": ["Bachelor of Technology, Electronics and Communication"],
+      "honors": ["First Class"],
+      "Percentage": "73.1",
+      "gpa_major": "",
+      "graduation_date": "April 2014"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python Programming",
+      "proficiency": 90,
+      "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "MATLAB",
+      "proficiency": 90,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cooking",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "/content/drive/MyDrive/portfolio_generator/portfolio_media/Designer.png",
+          "caption": "Apple Pies and Cakes"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working Proficiency"
+    },
+    {
+      "language": "Malayalam",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Understand"
+    }
+  ],
+  "references": [ ]
+}
